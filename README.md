@@ -1,6 +1,6 @@
 # 🌳 Árvore AVL – Implementação em Java  
 **Disciplina:** Estruturas de Dados II  
-**Aluno:** Lucas Leite Finizola Costa  
+**Aluno:** Lucas Leite  e Eliandro José
 **Data:** Novembro/2025  
 
 Este repositório contém a implementação completa de uma **Árvore AVL** com inserção de inteiros e exibição in-order após cada operação.  
